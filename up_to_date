@@ -1,6 +1,6 @@
 git command line used
 git add .
 git commit -m
-git push
+git push origin
 git pull
 git git clone
